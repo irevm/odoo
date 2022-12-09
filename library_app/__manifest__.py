@@ -21,7 +21,7 @@
     # always loaded
     'data': [
         'security/library_security.xml',
-        #'views/library_menu.xml',
+        'views/library_menu.xml',
     ],
     
     'application': True,
